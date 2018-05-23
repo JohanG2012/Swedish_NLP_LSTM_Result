@@ -1,0 +1,18 @@
+typos
+Accuracy %: 10.0%
+Exact Accuracy: 0.096
+
+gender
+Accuracy %: 72.0%
+Exact Accuracy: 0.7171111111111111
+
+two pass
+Accuracy %: 88.0%
+Exact Accuracy: 0.871
+
+falsepositives
+Accuracy %: 72.0%
+Exact Accuracy: 0.7175555555555555
+
+Total Accuracy %: 57.0
+Total Accuracy Exact: 0.5613703703703704
