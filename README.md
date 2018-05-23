@@ -12,4 +12,4 @@ It has the following accuracy:
 * Särskrivning Accuracy: 90.21%
 * False positives rate: 28.63%
 
-For source code see: LINK
+For source code see: https://github.com/JohanG2012/Swedish_NLP_LSTM
