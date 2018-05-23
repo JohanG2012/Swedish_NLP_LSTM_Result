@@ -1,0 +1,651 @@
+Epoch: 1 Validation loss: 0.0896682673722753
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjukskötekrskan monia bergström bvulnerän av de tre om arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har ävenmeddverkat i den prisade tv-serien den prisade tv-serien den pri
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den prisade tv-serien den sjun
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande det ektiven .
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokanddelsdiskarna han ublerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bok handelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS>
+Epoch: 2 Validation loss: 0.0647043372335383
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjukskötekrskan monia bergström bvulnnerän av de tre och arbetar med mobila teamet 
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har ävenmeddverkat i den prisade tv-serien det sjungande detetkiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokanddelsdiskarna han ublcerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 3 Validation loss: 0.05432358821401039
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjukskötekskan monia bergström bulnnerän av de tre om arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har även meddverkat i den prisade tv-serien det sjungande detetkiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokanddelsdiskarna han bulcerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 4 Validation loss: 0.04782167312822803
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjukskötekskan monia bergström bulner än av de tre om arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har även med vedverkat i den prisade tv-serien den sjungande dettekiven 
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokandelsdiskarna han bulcerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 5 Validation loss: 0.04428610019606769
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjukskötekriskan monia bergström bulning bergström bulner än av de tre om arbetar m
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har även meddverkat i den prisade tv-serien det sjungande det ett ket ki
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokandelsdiskarna han bulcerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 6 Validation loss: 0.04136123868039106
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjuksköterskan monia bergström bulnner än av de tre om arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har även meddverkat i den prisade tv-serien det sjungande dettekiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokandelsdiskarna han blecarr .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 7 Validation loss: 0.0393484859558293
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjuksköterskan monia bergström vulner än av de tre om arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har även meddverkat i den prisade tv-serien det sjungande det ett kiven 
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokandelsdiskarna han bulcerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 8 Validation loss: 0.03719309811985224
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjukskötekskan monia bergström vulnerän av de tre om arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har även meddverkat i den prisade tv-serien det sjungande det ett kiven 
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokandelsdiskarna han blecar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 9 Validation loss: 0.03548003068527435
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våldigt mycket våld eftersom den beskriver den italien
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våldigt mycket våld eftersom den beskriver den italie
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjukskötekskan monia bergström vulner än av de tre om arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har även meddverkat i den prisade tv-serien den sjungande dettektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokandelsdiskarna han blecarer .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 10 Validation loss: 0.03915937818158175
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den beskriver den italiens
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjukskötekerskan monia bergström bergström bunnerän av de tre om arbetar med mobila
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har även meddverkat i den prisade tv-serien det sjungande dettektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokanddelsdiskarna han blecarr .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 11 Validation loss: 0.039117051300638014
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjuksköterskan monia bergström blunner än av de tre om arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har ävenmeddverkat i den prisade dev-serien det sjungande detetektiven .
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokandelsdiskarna han bulcerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 12 Validation loss: 0.03937113866837494
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den beskriver den beskrive
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den beskriver den beskriv
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjukskötekskan monia bergström vulnner än av de tre om arbetar med tre om arbetar m
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har även meddverkat i den prisade tv-serien det sjungande det ett kiven 
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotseller för bokandelsdiskarna han bulcerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 13 Validation loss: 0.030942795596009258
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjuksköterskan monia bergström vulnerna av de tre om arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har även medderkat i den prisade den prisade tv-serien det sjungande det
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokandelsdiskarna han bleckar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 14 Validation loss: 0.03915717927319211
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjukskötekerskan monia bergskötekerskan monia bergström bergström bevulnerän av de 
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har även meddverkat i den prisade tv-serien det sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokandelsdiskarna han blecararna han
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 15 Validation loss: 0.04337949341125477
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjukskötekorskan monia bergström bergström vulnner än av de tre om arbetar med mobi
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har även meddverkat i den prisade tv-serien det sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokandelsdiskarna han ublecarr .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 16 Validation loss: 0.10266428308236641
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjukskötekskan monia bergström vulnner än av de tre om arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har även meddverkat i den prisade den prisade den prisade den det den de
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokandelsdiskarna han ublecarr .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 17 Validation loss: 0.1439364773540593
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjukskötekerskan monia bergström vulner än av de tre om arbetar med mobila teamet .
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har även med ved ved ved ved ved ved ved ved ved verkat i den prisade tv
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokandelsdiskarna han blecarer .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 18 Validation loss: 0.051499859369133434
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjuksköterskan monia bergström vulnner än av de tre om arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har även meddverkat i den prisade tv-serien det sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokandelsdiskarna han blecarr .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 19 Validation loss: 0.11268932349352367
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS>
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sjuksköterskan monia bergström bulner än av de tre om arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sjuksköterskan monika bergströmbunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS>
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hon har ävenmeddverkat i den prisade tv-serien den sjungande dettiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS>
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: det är inte precis någa besotsellers för bokandelsdiskarna han blecarr .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS>
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 20 Validation loss: 2.99658121248157
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: den s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: den s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s 
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sanin an ina inana ina inana iina ina inana iina ina inana ina inana ina ina inana 
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: san se se se se se se sen se se se se sen se se se sen se se se sen se se se sen se se se 
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: san san se in se in se in se in se in se in se in se in se in s s s s s s sen s s s s s 
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hen hän hen hen hen hen hen hen hen hen hen hen hen hen hen hen han hen han 
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hen he he he se he se he se he se he se he se he se he m he m he m he m he se
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hen hen hen hen hen he he he he he he he he he he he he he he he he he he 
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: deteteteteretteretterettetere isetetet setti isettttttttttttttttttttttttttttt
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: dererererererererereretere setere sere sere sere sere sere sere sere sere sere 
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+Epoch: 21 Validation loss: 1.072295267033266
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den ital ienska maffian .
+  Validation Output: de a he fe fe fe fe fe fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .
+  Validation Output: de fe fe fe fe fe fe fe fe fe fe fe fe fe fe fe fe fe fe fe fe fe fe fe fe fe 
+  Correct: där finns väldigt mycket våld eftersom den beskriver den italienska maffian .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskötekrskan monia bergsrtöm bvulnnerän av de tre o arbetar med mobila teamet. 
+  Validation Output: sene be be are are are are are are are are are are are are are a a a a a a a a a a 
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjukskö terskan monika bergström bunner är en av de tre som arbetar med mobil a team et .
+  Validation Output: sen be be be be be a a be a a be a a be a a be a a be a a be a a be a a be a a be a a be a
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: sjuksköterskan monika bergström bunner är ett av de tre som arbetar med mobila teamet .
+  Validation Output: se ar be ar a ar an a a a a a a a a an a a a a a a an an a a a a a a a a a a an an a a a
+  Correct: sjuksköterskan monika bergström bunner är en av de tre som arbetar med mobila teamet .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har ävenmeddverkat i den prisade tdv-serien detn sjungande detetkiven .
+  Validation Output: hen den den den den den den den den den den den den den den den hen hen hen 
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverk at i den pris ade tv -serien den sjungande detektiven .
+  Validation Output: hen den den den den den den den den den den den den den den den den den den d
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: hon har även medverkat i den prisade tv-serien den sjungande detektiven .
+  Validation Output: hen den den den den den den hen hen hen hen hen hen hen hen hen hen hen he
+  Correct: hon har även medverkat i den prisade tv-serien den sjungande detektiven .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är itne precis någa besotsellers frör bokanddelwsdiskarna han ublcearr .
+  Validation Output: den de be be be be be be be be be be be be be be be be be be be be be be be b
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
+  Validation Input: det är inte precis några bestsel lers för bok handelsdiskarna han publicerar .
+  Validation Output: den den den de men de be be be be be be be be be be be be be be be be be be be 
+  Correct: det är inte precis några bestsellers för bokhandelsdiskarna han publicerar .<EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS><EOS>
