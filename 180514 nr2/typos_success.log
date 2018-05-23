@@ -1,0 +1,1884 @@
+  Validation Input: så är dete .
+  Validation Output: så är det .
+
+  Validation Input: konkursen slår hårt zmotd fondn coh ålngivaren värmlands provinsbank .
+  Validation Output: konkursen slår hårt mot fonden och långivaren värmlands provinsbank .
+
+  Validation Input: gais : wanderson avständg .
+  Validation Output: gais : wanderson avstängd .
+
+  Validation Input: publi k: 408 d.
+  Validation Output: publik : 408 .
+
+  Validation Input: pinoccio frånu 3 år .
+  Validation Output: pinoccio från 3 år .
+
+  Validation Input: - samtpidigt är det svårt att förebygga .
+  Validation Output: - samtidigt är det svårt att förebygga .
+
+  Validation Input: 02.54 haga , gteborg
+  Validation Output: 02.54 haga , göteborg
+
+  Validation Input: jg är säker åpatt många fler skulle vilja cpröva på omå möjlihgeten fanns , sägr glenn .
+  Validation Output: jag är säker på att många fler skulle vilja pröva på om möjligheten fanns , säger glenn .
+
+  Validation Input: tänk att politikerna är så räddaför en möbel !
+  Validation Output: tänk att politikerna är så rädda för en möbel !
+
+  Validation Input: de viisar upp resultatxet i en utställniön sojm har vernissage i dag på kosntepidmein .
+  Validation Output: de visar upp resultatet i en utställning som har vernissage i dag på konstepidemin .
+
+  Validation Input: utv q, modo : 11x2 .
+  Validation Output: utv , modo : 11x2 .
+
+  Validation Input: odds :2 ,71 .
+  Validation Output: odds : 2,71 .
+
+  Validation Input: - dt känns välcdigt hedrande att de vill vara med .
+  Validation Output: - det känns väldigt hedrande att de vill vara med .
+
+  Validation Input: oms : 3 9f40 435 kr .
+  Validation Output: oms : 3 940 435 kr .
+
+  Validation Input: - mitt första jobvb vagr att tvätta bilar , imnn shan. 
+  Validation Output: - mitt första jobb var att tvätta bilar , minns han .
+
+  Validation Input: reprortage.
+  Validation Output: reportage .
+
+  Validation Input: från 4 rå .
+  Validation Output: från 4 år .
+
+  Validation Input: riktgt så lätt ska det inte få gå .
+  Validation Output: riktigt så lätt ska det inte få gå .
+
+  Validation Input: struken : 6. 
+  Validation Output: struken : 6 .
+
+  Validation Input: - för mig handlar det inte omv årt sät att leva , men de tär mitt liv .
+  Validation Output: - för mig handlar det inte om vårt sätt att leva , men det är mitt liv .
+
+  Validation Input: de thar han alltdi varit .
+  Validation Output: det har han alltid varit .
+
+  Validation Input: här i västxsverige ärg matjessillen ett måste s.
+  Validation Output: här i västsverige är matjessillen ett måste .
+
+  Validation Input: det är det svåraste som finns , säger sevnsson .
+  Validation Output: det är det svåraste som finns , säger svensson .
+
+  Validation Input: där är det stängtv .
+  Validation Output: där är det stängt .
+
+  Validation Input: det kmommer amn aldrgi ifrån .
+  Validation Output: det kommer man aldrig ifrån .
+
+  Validation Input: -j ag gick idt på vinst ohc fpörlust ochträffade ägaren. 
+  Validation Output: - jag gick dit på vinst och förlust och träffade ägaren .
+
+  Validation Input: - ne j, så enkelt kan man inote göra det ör sig .
+  Validation Output: - nej , så enkelt kan man inte göra det för sig .
+
+  Validation Input: bullrig  ,men bränslesnål ochs äker .
+  Validation Output: bullrig , men bränslesnål och säker .
+
+  Validation Input: förhanldaren
+  Validation Output: förhandlaren
+
+  Validation Input: är bromsarna okej? 
+  Validation Output: är bromsarna okej ?
+
+  Validation Input: - inåför alal .
+  Validation Output: - inför alla .
+
+  Validation Input: andra sätt att resa? 
+  Validation Output: andra sätt att resa ?
+
+  Validation Input: gjrd  iindien .
+  Validation Output: gjord i indien .
+
+  Validation Input: vda handlar det om ?
+  Validation Output: vad handlar det om ?
+
+  Validation Input: ålder detl finns niget krav påx högsta ålder för däck .
+  Validation Output: ålder det finns inget krav på högsta ålder för däck .
+
+  Validation Input: - om tio år är vi i vm , säger tränaern ina ahlberg .
+  Validation Output: - om tio år är vi i vm , säger tränaren ina ahlberg .
+
+  Validation Input: gillcar de inbte mig har de baras vhårt för att ja ginte ä som alla anrda .
+  Validation Output: gillar de inte mig har de bara svårt för att jag inte är som alla andra .
+
+  Validation Input: teaterhuset kl 91 .
+  Validation Output: teaterhuset kl 19 .
+
+  Validation Input: själmv ge rhon järnet .
+  Validation Output: själv ger hon järnet .
+
+  Validation Input: de stöden ersätts från ohcmed i år med dte nya gårdsstödet .
+  Validation Output: de stöden ersätts från och med i år med det nya gårdsstödet .
+
+  Validation Input: öppet tis-sö nkl 10-17 , ons vkl 10-20 .
+  Validation Output: öppet tis-sön kl 10-17 , ons kl 10-20 .
+
+  Validation Input: betyget m: klatr godkänt .
+  Validation Output: betyget : klart godkänt .
+
+  Validation Input: hon lutade åta tt det därför skullev ara dags att häva det .
+  Validation Output: hon lutade åt att det därför skulle vara dags att häva det .
+
+  Validation Input: nästan var trdeje av dem hotade sina offer med kniv .
+  Validation Output: nästan var tredje av dem hotade sina offer med kniv .
+
+  Validation Input: odds  2,35 m.
+  Validation Output: odds : 2,35 .
+
+  Validation Input: men när sveruiges vändningä väl okm så var dean bqåd esanbb och tjusig .
+  Validation Output: men när sveriges vändning väl kom så var den både snabb och tjusig .
+
+  Validation Input: kan ni stoppa nedskärningarnga nu ?
+  Validation Output: kan ni stoppa nedskärningarna nu ?
+
+  Validation Input: resultatet blev jämnt. 
+  Validation Output: resultatet blev jämnt .
+
+  Validation Input: hemmaklxubben vann föir första gången c.
+  Validation Output: hemmaklubben vann för första gången .
+
+  Validation Input: - det ser btätre ut .
+  Validation Output: - det ser bättre ut .
+
+  Validation Input: - varje år har jag enskildaa hälsosamtal med eleverna i åttan .
+  Validation Output: - varje år har jag enskilda hälsosamtal med eleverna i åttan .
+
+  Validation Input: konsumtionwen av kyckling harx ökat snabbt 
+  Validation Output: konsumtionen av kyckling har ökat snabbt .
+
+  Validation Input: fö r 4personer
+  Validation Output: för 4 personer
+
+  Validation Input: lördag kungälvu blomstervanfdring  itofta .
+  Validation Output: lördag kungälv blomstervandring i tofta .
+
+  Validation Input: att utdela: 996 489 kronro .
+  Validation Output: att utdela : 996 489 kronor .
+
+  Validation Input: (tt-reuters )
+  Validation Output: ( tt-reuters )
+
+  Validation Input: mne dt dä rär bilagt nu .
+  Validation Output: men det där är bilagt nu .
+
+  Validation Input: vill störta regerinegn .
+  Validation Output: vill störta regeringen .
+
+  Validation Input: så var föstås inte afllet .
+  Validation Output: så var förstås inte fallet .
+
+  Validation Input: plats : 1,62-3,10-10,0 8.
+  Validation Output: plats : 1,62-3,10-10,08 .
+
+  Validation Input: - hur var ahn klädd ?
+  Validation Output: - hur var han klädd ?
+
+  Validation Input: - jag har bott här ie ttoch ett hatlvt år .
+  Validation Output: - jag har bott här i ett och ett halvt år .
+
+  Validation Input: odds : 5,14 a.
+  Validation Output: odds : 5,14 .
+
+  Validation Input: ocfhd et är ingen tvekan om vilket äyr det störsatu mninet .
+  Validation Output: och det är ingen tvekan om vilket är det största minnet .
+
+  Validation Input: oc hså lfäget .
+  Validation Output: och så läget .
+
+  Validation Input: här äor sveriges trupp :
+  Validation Output: här är sveriges trupp :
+
+  Validation Input: från 2 å r.
+  Validation Output: från 2 år .
+
+  Validation Input: - men jagt cyker itn eom att han säger att den är farlig .
+  Validation Output: - men jag tycker inte om att han säger att den är farlig .
+
+  Validation Input: jakg är trött på det här nu .
+  Validation Output: jag är trött på det här nu .
+
+  Validation Input: där innehållxer partikeldammet myckket metalleer .
+  Validation Output: där innehåller partikeldammet mycket metaller .
+
+  Validation Input: ådler:14 rå .
+  Validation Output: ålder:14 år .
+
+  Validation Input: det höar ugnefär 30 000 invånare .
+  Validation Output: det har ungefär 30 000 invånare .
+
+  Validation Input: hon hr reda nbörjat planera vad hon szka ögra i framtiden. 
+  Validation Output: hon har redan börjat planera vad hon ska göra i framtiden .
+
+  Validation Input: men ho när veteran .
+  Validation Output: men hon är veteran .
+
+  Validation Input: ehtte tävlingen f.
+  Validation Output: hette tävlingen .
+
+  Validation Input: sen får vi se i vilken form hon ärj , om ho spelar. 
+  Validation Output: sen får vi se i vilken form hon är , om hon spelar .
+
+  Validation Input: pulsen går upp , de tsnörper åt kring halsecn .
+  Validation Output: pulsen går upp , det snörper åt kring halsen .
+
+  Validation Input: villa/ lidk .
+  Validation Output: villa / lidk .
+
+  Validation Input: bara att titta påå hur heolm chj rybakov har hooppat. 
+  Validation Output: bara att titta på hur holm och rybakov har hoppat .
+
+  Validation Input: standbwytidenä r lång , 30 dagar .
+  Validation Output: standbytiden är lång , 30 dagar .
+
+  Validation Input: brynäs : 4x2g .
+  Validation Output: brynäs : 4x2 .
+
+  Validation Input: t o m 20/  11 .
+  Validation Output: t o m 20 / 11 .
+
+  Validation Input: det har hanr vvisat i många sammanhang .
+  Validation Output: det har han visat i många sammanhang .
+
+  Validation Input: stark i gåur .
+  Validation Output: stark i går .
+
+  Validation Input: - vissånagren .
+  Validation Output: - vissångaren .
+
+  Validation Input: dessutom finns det fler rfågetecekn .
+  Validation Output: dessutom finns det fler frågetecken .
+
+  Validation Input: en brap ubliik rä alltid nyfpiken och lyssnande 
+  Validation Output: en bra publik är alltid nyfiken och lyssnande .
+
+  Validation Input: -m an tänke rkinte så .
+  Validation Output: - man tänker inte så .
+
+  Validation Input: fredag 11  -14 .
+  Validation Output: fredag 11 - 14 .
+
+  Validation Input: snaca om dubbelmoral !
+  Validation Output: snacka om dubbelmoral !
+
+  Validation Input: ngåra svarade med applåder  ,men måenga blev upprörda .
+  Validation Output: några svarade med applåder , men många blev upprörda .
+
+  Validation Input: men dwet tar jag tillbaka , jag fdortsätter .
+  Validation Output: men det tar jag tillbaka , jag fortsätter .
+
+  Validation Input: publki : 4 000 .
+  Validation Output: publik : 4 000 .
+
+  Validation Input: oddss 3,74 .
+  Validation Output: odds 3,74 .
+
+  Validation Input: oddsx ö, vinstgrp 1 : 2 102,80 .
+  Validation Output: odds , vinstgrp 1 : 2 102,80 .
+
+  Validation Input: edt klargjorde han i svt:s partihledarutfrågnnig i torsdags .
+  Validation Output: det klargjorde han i svt:s partiledarutfrågning i torsdags .
+
+  Validation Input:  jag kan inte gå in på det. 
+  Validation Output: - jag kan inte gå in på det .
+
+  Validation Input: - är det jobibgt ?
+  Validation Output: - är det jobbigt ?
+
+  Validation Input: tvilling : 4 / 7 6,88.
+  Validation Output: tvilling : 4 / 7 6,88 .
+
+  Validation Input: vda betyder mindfulness fökr dig ?
+  Validation Output: vad betyder mindfulness för dig ?
+
+  Validation Input: r- edt är baraa tt tacka och ta emot .
+  Validation Output: - det är bara att tacka och ta emot .
+
+  Validation Input: nu närmar siig valet och jag bryår qmgi inte ett dugg .
+  Validation Output: nu närmar sig valet och jag bryr mig inte ett dugg .
+
+  Validation Input: -s vih aräven  iår några som p siqkt kommre att bli mycket bra .
+  Validation Output: - vi har även i år några som på sikt kommer att bli mycket bra .
+
+  Validation Input: - jag kan mcöjligehn beklaga ordvalet. 
+  Validation Output: - jag kan möjligen beklaga ordvalet .
+
+  Validation Input: ömit ti qkonflikten .
+  Validation Output: mitt i konflikten .
+
+  Validation Input: ja är mousscerandee helt nekelt. 
+  Validation Output: jag är mousserande helt enkelt .
+
+  Validation Input: - vi fcik ingen fart på vårtf sgpel .
+  Validation Output: - vi fick ingen fart på vårt spel .
+
+  Validation Input: smmaw år dömdes tio av dem tlil fänägelse .
+  Validation Output: samma år dömdes tio av dem till fängelse .
+
+  Validation Input: d eanmälda klubbarna kommer frräqmst från väsbtkusten 
+  Validation Output: de anmälda klubbarna kommer främst från västkusten .
+
+  Validation Input: jag blev jättechojckerad !
+  Validation Output: jag blev jättechockerad !
+
+  Validation Input: aatt edt kändes rätt .
+  Validation Output: att det kändes rätt .
+
+  Validation Input: få ställen pasösar gustafson bättre än irland .
+  Validation Output: få ställen passar gustafson bättre än irland .
+
+  Validation Input: ... 1943 öppnar ikea sin fösrta möbelbutik .
+  Validation Output: ... 1943 öppnar ikea sin första möbelbutik .
+
+  Validation Input: det tyckte inte ajg det blev .
+  Validation Output: det tyckte inte jag det blev .
+
+  Validation Input: rföru ngdomar 15-25 år .
+  Validation Output: för ungdomar 15-25 år .
+
+  Validation Input: - jags kulle bl väldigt besvpikne om jag intet ar medalj , sade ewn samlad anjba i går .
+  Validation Output: - jag skulle bli väldigt besviken om jag inte tar medalj , sade en samlad anja i går .
+
+  Validation Input: - ho nmåste ju också vänta ochs  evad som händer. 
+  Validation Output: - hon måste ju också vänta och se vad som händer .
+
+  Validation Input: - men nej , äde tskulle jag aldrig nöja mig med .
+  Validation Output: - men nej , det skulle jag aldrig nöja mig med .
+
+  Validation Input: han kom till örahnldingarnapzå kryckor men gav inga kommentarer .
+  Validation Output: han kom till förhandlingarna på kryckor men gav inga kommentarer .
+
+  Validation Input: pär axel sahzlbegr ,w om teologisk strategi inför byggandet av en ny kyrka .
+  Validation Output: pär axel sahlberg , om teologisk strategi inför byggandet av en ny kyrka .
+
+  Validation Input: det r mer än förväntat .
+  Validation Output: det är mer än förväntat .
+
+  Validation Input: edtä r mitt " statement " i txiden .
+  Validation Output: det är mitt " statement " i tiden .
+
+  Validation Input: det tarm ykcet energi ,ö sägåer niklas andersson .
+  Validation Output: det tar mycket energi , säger niklas andersson .
+
+  Validation Input: så varfr gnälla ?
+  Validation Output: så varför gnälla ?
+
+  Validation Input: många torr atth nödinrge ligger långt bort frnå göteborgo .
+  Validation Output: många tror att nödinge ligger långt bort från göteborg .
+
+  Validation Input: hrä ingår också skatt på bland annat el , bensin , alkohol , fastipghet samt moms .
+  Validation Output: här ingår också skatt på bland annat el , bensin , alkohol , fastighet samt moms .
+
+  Validation Input: lödsningeun förra veckan avr " hst "ö å.
+  Validation Output: lösningen förra veckan var " häst " .
+
+  Validation Input: föreställningen kommezrs eynae aåttb bpli film i 3d-format påandra orter .
+  Validation Output: föreställningen kommer senare att bli film i 3d-format på andra orter .
+
+  Validation Input: vi skitckade en maskin tlil dominikanska republiken .
+  Validation Output: vi skickade en maskin till dominikanska republiken .
+
+  Validation Input: oplacerade : steppingp girl dug ( 62  ).
+  Validation Output: oplacerade : stepping girl dug ( 62 ) .
+
+  Validation Input: huset är byggt 195 8.
+  Validation Output: huset är byggt 1958 .
+
+  Validation Input: och nus itter den fast .
+  Validation Output: och nu sitter den fast .
+
+  Validation Input: fokus försvinner frånd et viktxiga .
+  Validation Output: fokus försvinner från det viktiga .
+
+  Validation Input: hennesd intrsessen är vävning oh resor .
+  Validation Output: hennes intressen är vävning och resor .
+
+  Validation Input: men det var itne det ärendet gälldeh .
+  Validation Output: men det var inte det ärendet gällde .
+
+  Validation Input: odds :o 10,71 .
+  Validation Output: odds : 10,71 .
+
+  Validation Input: det är bara någraveckor kvaqr til fyrtio .
+  Validation Output: det är bara några veckor kvar till fyrtio .
+
+  Validation Input: grafik i väst , storgatan 20w , kl 12 - 16 .
+  Validation Output: grafik i väst , storgatan 20 , kl 12 - 16 .
+
+  Validation Input: poilsen kommer efter efm , tio minutr .
+  Validation Output: polisen kommer efter fem , tio minuter .
+
+  Validation Input: publxik : 20 300 .
+  Validation Output: publik : 20 300 .
+
+  Validation Input: bridge gamla eriksbergspojkra .
+  Validation Output: bridge gamla eriksbergspojkar .
+
+  Validation Input: - men det blijr en minskning .
+  Validation Output: - men det blir en minskning .
+
+  Validation Input: man kan rfåaga sg vad som helar bäst .
+  Validation Output: man kan fråga sig vad som helar bäst .
+
+  Validation Input: - han trodde att jags kulle passa bra här , att ja gskullez kunna hjälpa laget .
+  Validation Output: - han trodde att jag skulle passa bra här , att jag skulle kunna hjälpa laget .
+
+  Validation Input: öpept kl 12-18 .
+  Validation Output: öppet kl 12-18 .
+
+  Validation Input: ja gvet inte om det ffinns kvar länrge 
+  Validation Output: jag vet inte om det finns kvar längre .
+
+  Validation Input: men det enda vi kan rpåverka nu är framtiden , och det måste vi försöka göra .
+  Validation Output: men det enda vi kan påverka nu är framtiden , och det måste vi försöka göra .
+
+  Validation Input: fakta : de nviktiga halvtimmen
+  Validation Output: fakta : den viktiga halvtimmen
+
+  Validation Input: nytt liåvi  fångobrgen
+  Validation Output: nytt liv i fångborgen
+
+  Validation Input: öppet må l, pucken hoppade lite coh när jag tryckte till stcak den bara .
+  Validation Output: öppet mål , pucken hoppade lite och när jag tryckte till stack den bara .
+
+  Validation Input: jga kopplade inte ihop dem med det andra de gör .
+  Validation Output: jag kopplade inte ihop dem med det andra de gör .
+
+  Validation Input: skiter jag i ödet pesriska nyåret ,skitezr jag i min bakgrund ,och det visll ajg inte .
+  Validation Output: skiter jag i det persiska nyåret , skiter jag i min bakgrund , och det vill jag inte .
+
+  Validation Input: kravet var enkla recept med råvaror som går att köpa vars om ehlst .
+  Validation Output: kravet var enkla recept med råvaror som går att köpa var som helst .
+
+  Validation Input: mer ordning i skolanä r ett exeempel .
+  Validation Output: mer ordning i skolan är ett exempel .
+
+  Validation Input: det isade han ite minst på ullevi ji går kväll. 
+  Validation Output: det visade han inte minst på ullevi i går kväll .
+
+  Validation Input: dessutojm verkdaede tvara en trrevlig stad .
+  Validation Output: dessutom verkade det vara en trevlig stad .
+
+  Validation Input: det var så fatnaststk rolgit , säger emelie erlandsson , 28 .
+  Validation Output: det var så fantastiskt roligt , säger emelie erlandsson , 28 .
+
+  Validation Input: finalen avgörs natten till åmndag .
+  Validation Output: finalen avgörs natten till måndag .
+
+  Validation Input: spärren har släxppt 
+  Validation Output: spärren har släppt .
+
+  Validation Input: ettsjälvvaölt handikap
+  Validation Output: ett självvalt handikapp
+
+  Validation Input: kandidfat 1 :
+  Validation Output: kandidat 1 :
+
+  Validation Input: tnatenv är på väg tillbaka , tanten osm lägge rsig i .
+  Validation Output: tanten är på väg tillbaka , tanten som lägger sig i .
+
+  Validation Input: nu var du udktig !
+  Validation Output: nu var du duktig !
+
+  Validation Input: 42 miste livet  brinnaned höghus
+  Validation Output: 42 miste livet i brinnande höghus
+
+  Validation Input: adnkreas hellberg yrke : brandamn p.
+  Validation Output: andreas hellberg yrke : brandman .
+
+  Validation Input: edt resuxlteradce i et hundratal tips som nu bearbetas .
+  Validation Output: det resulterade i ett hundratal tips som nu bearbetas .
+
+  Validation Input: är dtetaen cynisk lögn ?
+  Validation Output: är detta en cynisk lögn ?
+
+  Validation Input: ävnlig service .
+  Validation Output: vänlig service .
+
+  Validation Input: ändå är ha nbara 17 år !
+  Validation Output: ändå är han bara 17 år !
+
+  Validation Input: ådler : 38d år .
+  Validation Output: ålder : 38 år .
+
+  Validation Input: ingen tvkean omq saken .
+  Validation Output: ingen tvekan om saken .
+
+  Validation Input: men kommunen vill väntba poå regerignens beslut .
+  Validation Output: men kommunen vill vänta på regeringens beslut .
+
+  Validation Input: infö rhelgen
+  Validation Output: inför helgen
+
+  Validation Input: - få gfallu leder vtlil förändringar .
+  Validation Output: - få fall leder till förändringar .
+
+  Validation Input: pubilk : 216 .
+  Validation Output: publik : 216 .
+
+  Validation Input: kanal5 , kl 21.30
+  Validation Output: kanal 5 , kl 21.30
+
+  Validation Input: jag vile bort .
+  Validation Output: jag ville bort .
+
+  Validation Input: - inlägget var äl hyggligt , säger hna .
+  Validation Output: - inlägget var väl hyggligt , säger han .
+
+  Validation Input: för dzen som vill bli författuarefinns det mnågaolika vägar .
+  Validation Output: för den som vill bli författare finns det många olika vägar .
+
+  Validation Input: t o m 27r  /2 .
+  Validation Output: t o m 27 / 2 .
+
+  Validation Input: v- fortbildnignbsehovet är enormt stort .
+  Validation Output: - fortbildningsbehovet är enormt stort .
+
+  Validation Input: russinen ger en zlätt behaglig sötma .
+  Validation Output: russinen ger en lätt behaglig sötma .
+
+  Validation Input: odds : 4,04y .
+  Validation Output: odds : 4,04 .
+
+  Validation Input: niget rånbyte .
+  Validation Output: inget rånbyte .
+
+  Validation Input: hur lkarar du detpraktiskt ?
+  Validation Output: hur klarar du det praktiskt ?
+
+  Validation Input: man ska bkoppl aav .
+  Validation Output: man ska koppla av .
+
+  Validation Input: - det äroerhörtå bekymrande .
+  Validation Output: - det är oerhört bekymrande .
+
+  Validation Input: göteobrg har fem lag  ielden .
+  Validation Output: göteborg har fem lag i elden .
+
+  Validation Input:  et här ärn og det värsta jag varit med om 
+  Validation Output:  det här är nog det värsta jag varit med om 
+
+  Validation Input: perssohn och steen .
+  Validation Output: persson och steen .
+
+  Validation Input: det gicåk bara runt , runt .
+  Validation Output: det gick bara runt , runt .
+
+  Validation Input: jfag fick med mig några bra saker att tänka på.
+  Validation Output: jag fick med mig några bra saker att tänka på .
+
+  Validation Input: - att det gick så bra frö allaandra blev min räddning .
+  Validation Output: - att det gick så bra för alla andra blev min räddning .
+
+  Validation Input: ingn kvar på platsen b.
+  Validation Output: ingen kvar på platsen .
+
+  Validation Input: fredag så mycket himmel jtag orkar bäraa trpe hjältinnoor ger sig ut på äventyr .
+  Validation Output: fredag så mycket himmel jag orkar bära tre hjältinnor ger sig ut på äventyr .
+
+  Validation Input: det åfinns inget föörsvar för jlynndie englands haänldingar .
+  Validation Output: det finns inget försvar för lynndie englands handlingar .
+
+  Validation Input: huvuddelen av czigaretterna kommrf rån två stora containerbeslag .
+  Validation Output: huvuddelen av cigaretterna kommer från två stora containerbeslag .
+
+  Validation Input: desas vöerträffades mdel råge .
+  Validation Output: dessa överträffades med råge .
+
+  Validation Input: nårga dagar sneare mvar han anställd .
+  Validation Output: några dagar senare var han anställd .
+
+  Validation Input: utanförh r gräset vuxit sigw alldeles förh öqgt .
+  Validation Output: utanför har gräset vuxit sig alldeles för högt .
+
+  Validation Input: gäller deto rganisationer somni redan äri ntresserade av ?
+  Validation Output: gäller det organisationer som ni redan är intresserade av ?
+
+  Validation Input: edbattörerna :
+  Validation Output: debattörerna :
+
+  Validation Input: hno blev 100 år,  tio månader och sju dagar .
+  Validation Output: hon blev 100 år , tio månader och sju dagar .
+
+  Validation Input: där tänker jag läggamin rös t.
+  Validation Output: där tänker jag lägga min röst .
+
+  Validation Input: det bästa ära tt det är bra musik , ja , det tyckr jag .
+  Validation Output: det bästa är att det är bra musik , ja , det tycker jag .
+
+  Validation Input: nu hhar det varit fokus på att komma i ågng .
+  Validation Output: nu har det varit fokus på att komma i gång .
+
+  Validation Input: efter fdet vapr han fsat .
+  Validation Output: efter det var han fast .
+
+  Validation Input: -d et är äfantastiskt vackert där .
+  Validation Output: - det är fantastiskt vackert där .
+
+  Validation Input: - r du klar ?
+  Validation Output: - är du klar ?
+
+  Validation Input: vattenrdmömar. 
+  Validation Output: vattendrömmar .
+
+  Validation Input: fina prsier ?
+  Validation Output: fina priser ?
+
+  Validation Input: kulturgigant if gunbgnngä ?
+  Validation Output: kulturgigant i gungning ?
+
+  Validation Input: de flesta tilvlhör den ädlre geneartionen .
+  Validation Output: de flesta tillhör den äldre generationen .
+
+  Validation Input: dte är på det nya älfdreboenedt im landvetter cnetrum som träffpunkten öppnar .
+  Validation Output: det är på det nya äldreboendet i landvetter centrum som träffpunkten öppnar .
+
+  Validation Input: - jag tror i och för sig innte att de haft såb måöngav al .
+  Validation Output: - jag tror i och för sig inte att de haft så många val .
+
+  Validation Input: 07.00 :frukost .
+  Validation Output: 07.00 : frukost .
+
+  Validation Input: tryggheten finnsi nt i den materiåella standarden .
+  Validation Output: tryggheten finns inte i den materiella standarden .
+
+  Validation Input: det är inte säkert dte går bra nu .
+  Validation Output: det är inte säkert det går bra nu .
+
+  Validation Input: avgmrnäsningne kräver nya fgriska tag .
+  Validation Output: avgränsningen kräver nya friska tag .
+
+  Validation Input: dena merikanska mediekrisen är tet utmrkt exempel .
+  Validation Output: den amerikanska mediekrisen är ett utmärkt exempel .
+
+  Validation Input: folkteathern kl 19 .
+  Validation Output: folkteatern kl 19 .
+
+  Validation Input: ftill detta ska läggas underleverantörerna .
+  Validation Output: till detta ska läggas underleverantörerna .
+
+  Validation Input: mannen hävdarockså att han inte fick nåogn del av den senaste odlinsgen .
+  Validation Output: mannen hävdar också att han inte fick någon del av den senaste odlingen .
+
+  Validation Input: i vårt samhälle endast eött fåtal .
+  Validation Output: i vårt samhälle endast ett fåtal .
+
+  Validation Input: odds: 6,32 .
+  Validation Output: odds : 6,32 .
+
+  Validation Input: sista dagen.
+  Validation Output: sista dagen .
+
+  Validation Input: frågan är :när ska det tas vrekliga krafttag mot zbostaydsbristen ?
+  Validation Output: frågan är : när ska det tas verkliga krafttag mot bostadsbristen ?
+
+  Validation Input: odds : 33,ä10. 
+  Validation Output: odds : 33,10 .
+
+  Validation Input: tt lyckat practical joke
+  Validation Output: ett lyckat practical joke
+
+  Validation Input: danamrk : 7x2 .
+  Validation Output: danmark : 7x2 .
+
+  Validation Input: faktum är att detf aktiskt aldrig var jobbigt .
+  Validation Output: faktum är att det faktiskt aldrig var jobbigt .
+
+  Validation Input: somvmar brukar betyda fullsatta hotell .
+  Validation Output: sommar brukar betyda fullsatta hotell .
+
+  Validation Input: och den intresesrar mig inte såäsrkilt mycket .
+  Validation Output: och den intresserar mig inte särskilt mycket .
+
+  Validation Input: -p det var det enda jag tänkte på vdi dte tillfället , säger han .
+  Validation Output: - det var det enda jag tänkte på vid det tillfället , säger han .
+
+  Validation Input: - när en släkting som man tykcer om har dtöt , då är man intes å kaxig .
+  Validation Output: - när en släkting som man tycker om har dött , då är man inte så kaxig .
+
+  Validation Input: visst är det nderbart .
+  Validation Output: visst är det underbart .
+
+  Validation Input: orgel til lunch
+  Validation Output: orgel till lunch
+
+  Validation Input: lycklig igen. 
+  Validation Output: lycklig igen .
+
+  Validation Input: stämöningsläget på stadens gator och torg är förändrat .
+  Validation Output: stämningsläget på stadens gator och torg är förändrat .
+
+  Validation Input: dods : 111,62 .
+  Validation Output: odds : 111,62 .
+
+  Validation Input: eom djenhårdnande konfliktenm ellan idealbilder coh det sårbart dödliga .
+  Validation Output: om den hårdnande konflikten mellan idealbilder och det sårbart dödliga .
+
+  Validation Input: ny alliaäns ?
+  Validation Output: ny allians ?
+
+  Validation Input: han har sjäqlvs agt att han tog sin examen på scen å.
+  Validation Output: han har själv sagt att han tog sin examen på scen .
+
+  Validation Input: rensa rkabban.
+  Validation Output: rensa krabban .
+
+  Validation Input: - på de tstora hela har dets yvenska finanssystemetklarat sig bra .
+  Validation Output: - på det stora hela har det svenska finanssystemet klarat sig bra .
+
+  Validation Input: världeln är rmitt hem exilfilmfestival .
+  Validation Output: världen är mitt hem exilfilmfestival .
+
+  Validation Input: det vi behövre är ldesagare .
+  Validation Output: det vi behöver är ledsagare .
+
+  Validation Input: vi dsjösättningen visaed det sig actt båten tog in vatten .
+  Validation Output: vid sjösättningen visade det sig att båten tog in vatten .
+
+  Validation Input: det första skecdet äår den tidiga röstninögen .
+  Validation Output: det första skedet är den tidiga röstningen .
+
+  Validation Input: 14.21hisingen
+  Validation Output: 14.21 hisingen
+
+  Validation Input: bordeh a avstått .
+  Validation Output: borde ha avstått .
+
+  Validation Input: antalet svarspersoner i götebrorg är498 .
+  Validation Output: antalet svarspersoner i göteborg är 498 .
+
+  Validation Input: finns det ncågra sföklaringar? 
+  Validation Output: finns det några förklaringar ?
+
+  Validation Input: 200n6 87,5 %
+  Validation Output: 2006 87,5 %
+
+  Validation Input: håkan mild cvr rörd över allt berö m.
+  Validation Output: håkan mild var rörd över allt beröm .
+
+  Validation Input: strax efter klockan 18p asserade det första tåget på 17 dyg n.
+  Validation Output: strax efter klockan 18 passerade det första tåget på 17 dygn .
+
+  Validation Input: de bolag sm höjer utgölr hittills 40 procent .
+  Validation Output: de bolag som höjer utgör hittills 40 procent .
+
+  Validation Input: mna tjänar igna pengar på nedläggningen .
+  Validation Output: man tjänar inga pengar på nedläggningen .
+
+  Validation Input: mellan 18 och 20 barn fbår plats i den rullande förskolan .
+  Validation Output: mellan 18 och 20 barn får plats i den rullande förskolan .
+
+  Validation Input: så gjordes prisundersöknngen
+  Validation Output: så gjordes prisundersökningen
+
+  Validation Input: - kanske var vi lite tgana av stunddens alalvar .
+  Validation Output: - kanske var vi lite tagna av stundens allvar .
+
+  Validation Input: uingenj misstänkt är ännu gripen .
+  Validation Output: ingen misstänkt är ännu gripen .
+
+  Validation Input: dosd l: 81,01 .
+  Validation Output: odds : 81,01 .
+
+  Validation Input: världskulturmuseet kl 1 8.
+  Validation Output: världskulturmuseet kl 18 .
+
+  Validation Input: det hantdlade om gratitude ller atlantica .
+  Validation Output: det handlade om gratitude eller atlantica .
+
+  Validation Input: han talade så tyst att domarnla gång på gång bad honom upprepa svaret .
+  Validation Output: han talade så tyst att domarna gång på gång bad honom upprepa svaret .
+
+  Validation Input: vad kostar det? 
+  Validation Output: vad kostar det ?
+
+  Validation Input: nästan alla ger samma sva r.
+  Validation Output: nästan alla ger samma svar .
+
+  Validation Input: strukna nqr q2 och 4 .
+  Validation Output: strukna nr 2 och 4 .
+
+  Validation Input: skicakr länk till karta med sms .
+  Validation Output: skickar länk till karta med sms .
+
+  Validation Input: strukenk nr 4.
+  Validation Output: struken nr 4 .
+
+  Validation Input: överklaganden har gjorts åt äbgge håll , bselut hayr ukpphävts.
+  Validation Output: överklaganden har gjorts åt bägge håll , beslut har upphävts .
+
+  Validation Input: hapn måwsted å också försöka förklara vad som gick snett i valet .
+  Validation Output: han måste då också försöka förklara vad som gick snett i valet .
+
+  Validation Input: på tal onm karriär , nhl hängeri  luften .
+  Validation Output: på tal om karriär , nhl hänger i luften .
+
+  Validation Input: hon sa : edt hra int jag heller .
+  Validation Output: hon sa : det har inte jag heller .
+
+  Validation Input: arrangörerna har ännu nit ebesltuat om de ska överklaga domen till regeringxsräten .
+  Validation Output: arrangörerna har ännu inte beslutat om de ska överklaga domen till regeringsrätten .
+
+  Validation Input: - det ä rinte så lätt .
+  Validation Output: - det är inte så lätt .
+
+  Validation Input: oms : 42 8a70 kr .
+  Validation Output: oms : 42 870 kr .
+
+  Validation Input: borvtdömd .
+  Validation Output: bortdömd .
+
+  Validation Input: - du , fråga mig inte varför jag aldri gjobbat där .
+  Validation Output: - du , fråga mig inte varför jag aldrig jobbat där .
+
+  Validation Input:  vi lever lala 33  .
+  Validation Output:  vi lever alla 33  .
+
+  Validation Input: meider har geonm rapportering väckt samhällen. 
+  Validation Output: medier har genom rapportering väckt samhällen .
+
+  Validation Input: vi har testat två som lovar att göra ödig mer utvliad.
+  Validation Output: vi har testat två som lovar att göra dig mer utvilad .
+
+  Validation Input: modo kallades real modoi  fjo l.
+  Validation Output: modo kallades real modo i fjol .
+
+  Validation Input: jordguzbbamr och glass .
+  Validation Output: jordgubbar och glass .
+
+  Validation Input: odds , vinstgrp 1 : 9 108,9o6.
+  Validation Output: odds , vinstgrp 1 : 9 108,96 .
+
+  Validation Input: - det är denbpästa arbetsplatsen jag hawr varit på .
+  Validation Output: - det är den bästa arbetsplatsen jag har varit på .
+
+  Validation Input:  to m 18 / 5. 
+  Validation Output: t o m 18 / 5 .
+
+  Validation Input: öppet krl 12-17 .
+  Validation Output: öppet kl 12-17 .
+
+  Validation Input: gösta malrmyd :
+  Validation Output: gösta malmryd :
+
+  Validation Input: och slog allaå tiders kassareokrd .
+  Validation Output: och slog alla tiders kassarekord .
+
+  Validation Input: det är vrå skyxldighet att värna dem .
+  Validation Output: det är vår skyldighet att värna dem .
+
+  Validation Input: - det är 21 omgånga rkvar .
+  Validation Output: - det är 21 omgångar kvar .
+
+  Validation Input: tvv4 kl 20.0 0.
+  Validation Output: tv4 kl 20.00 .
+
+  Validation Input: - david ska jg täcka vikd nattfrost ?
+  Validation Output: - david ska jag täcka vid nattfrost ?
+
+  Validation Input: rasfkt rasslade dett ill .
+  Validation Output: raskt rasslade det till .
+
+  Validation Input: et lbev också slutresultatet .
+  Validation Output: det blev också slutresultatet .
+
+  Validation Input: som o han konstaterade : jag har inget gemeånsamt medf detta system .
+  Validation Output: som om han konstaterade : jag har inget gemensamt med detta system .
+
+  Validation Input: jag r sjbälv etc exempel på detta .
+  Validation Output: jag är själv ett exempel på detta .
+
+  Validation Input: var finns förnöjfsamhetn ?
+  Validation Output: var finns förnöjsamheten ?
+
+  Validation Input: edt ärä nnu ute på remiss.
+  Validation Output: det är ännu ute på remiss .
+
+  Validation Input: smattrande flagglina fråga föbr länsstyrelsen
+  Validation Output: smattrande flagglina fråga för länsstyrelsen
+
+  Validation Input: men riskn är atvt kwvinnan utvisas.
+  Validation Output: men risken är att kvinnan utvisas .
+
+  Validation Input: stenkyrka kyrkliga samfälilghet bidrar ocksåmed e nmindre summa .
+  Validation Output: stenkyrka kyrkliga samfällighet bidrar också med en mindre summa .
+
+  Validation Input: d eförsta leqveraynsernva sker i septembr .
+  Validation Output: de första leveranserna sker i september .
+
+  Validation Input: - vi kommer inte framåtom ite ämnf tar upp rpobleemt .
+  Validation Output: - vi kommer inte framåt om inte män tar upp problemet .
+
+  Validation Input: happy valentine'  s day !
+  Validation Output: happy valentine ' s day !
+
+  Validation Input: rätt ähgare ?
+  Validation Output: rätt ägare ?
+
+  Validation Input: - omvärldden hjälper evrkligen till .
+  Validation Output: - omvärlden hjälper verkligen till .
+
+  Validation Input: publik : 38 500. 
+  Validation Output: publik : 38 500 .
+
+  Validation Input: - vi vill znaturligtvis få ut så mycket som möjligt för våra tomter .
+  Validation Output: - vi vill naturligtvis få ut så mycket som möjligt för våra tomter .
+
+  Validation Input: odds 1,8x6 .
+  Validation Output: odds 1,86 .
+
+  Validation Input: vad behöver fröludna göra ?
+  Validation Output: vad behöver frölunda göra ?
+
+  Validation Input: i efterhand ärp det enp arallell so blirx allt tydligare .
+  Validation Output: i efterhand är det en parallell som blir allt tydligare .
+
+  Validation Input: smaka p åordet .
+  Validation Output: smaka på ordet .
+
+  Validation Input: dug( 440 ) , twigs newton dcug ( 747 ) .
+  Validation Output: dug ( 440 ) , twigs newton dug ( 747 ) .
+
+  Validation Input: -u jag vill vara tydlig utan att skrika .
+  Validation Output: - jag vill vara tydlig utan att skrika .
+
+  Validation Input: frågan är om polisbilens föare kan hålla si ginom lagens råmäqrken ?
+  Validation Output: frågan är om polisbilens förare kan hålla sig inom lagens råmärken ?
+
+  Validation Input: tonar uyt över shanghai .
+  Validation Output: tonar ut över shanghai .
+
+  Validation Input: jaghörde meddetsamma hur ordet skevade r.
+  Validation Output: jag hörde meddetsamma hur ordet skevade .
+
+  Validation Input: när komme rvganen ?
+  Validation Output: när kommer vagnen ?
+
+  Validation Input: strax bortanför står några graanr .
+  Validation Output: strax bortanför står några granar .
+
+  Validation Input: utstllning
+  Validation Output: utställning
+
+  Validation Input: men vadr inns akrtorna ?
+  Validation Output: men var finns kartorna ?
+
+  Validation Input: jag säterr allt åjag hary påett enda kort .
+  Validation Output: jag sätter allt jag har på ett enda kort .
+
+  Validation Input: fotboleln är kär , som kärt basrn har den många namn .
+  Validation Output: fotbollen är kär , som kärt barn har den många namn .
+
+  Validation Input: ndra förslag ?
+  Validation Output: andra förslag ?
+
+  Validation Input: värd att bevaka : boszton b.f.l .
+  Validation Output: värd att bevaka : boston b.f.l .
+
+  Validation Input: men nzej tcak !
+  Validation Output: men nej tack !
+
+  Validation Input: och visst var det härligt ed jul ?
+  Validation Output: och visst var det härligt med jul ?
+
+  Validation Input: att äta tlil :
+  Validation Output: att äta till :
+
+  Validation Input: strukejn rn c14 .
+  Validation Output: struken nr 14 .
+
+  Validation Input: dlåig kuskinsats .
+  Validation Output: dålig kuskinsats .
+
+  Validation Input: sagoföreställningn om vänskap .
+  Validation Output: sagoföreställning om vänskap .
+
+  Validation Input: 17.05göteobrg
+  Validation Output: 17.05 göteborg
+
+  Validation Input: 3 vinterväderpå ingång .
+  Validation Output: 3 vinterväder på ingång .
+
+  Validation Input: - det blir bawra krångligyare om flea föravltninvgar yhar likartadei nriktningar .
+  Validation Output: - det blir bara krångligare om flera förvaltningar har likartade inriktningar .
+
+  Validation Input: jag kundöe ta taxi , handla mat ochgå till banken , säger häon .
+  Validation Output: jag kunde ta taxi , handla mat och gå till banken , säger hon .
+
+  Validation Input: tmen också en kämpe h.
+  Validation Output: men också en kämpe .
+
+  Validation Input: plats: 9,99-2,60-3,02 .
+  Validation Output: plats : 9,99-2,60-3,02 .
+
+  Validation Input: mn det qär klart att det är ettsamarbete .
+  Validation Output: men det är klart att det är ett samarbete .
+
+  Validation Input: em nden slutade i alla fall så : blå. 
+  Validation Output: men den slutade i alla fall så : blå .
+
+  Validation Input: jmstämlldhe tkräver gemesamm aansträngningar
+  Validation Output: jämställdhet kräver gemensamma ansträngningar
+
+  Validation Input: ellr tvärtom .
+  Validation Output: eller tvärtom .
+
+  Validation Input: inspekqtionenf öljer nu noga turerna i hq .
+  Validation Output: inspektionen följer nu noga turerna i hq .
+
+  Validation Input: polisen hade i går inte gripit några yttöerligare personer .
+  Validation Output: polisen hade i går inte gripit några ytterligare personer .
+
+  Validation Input: förcmodligen kommer domarringsväge natt förlängas .
+  Validation Output: förmodligen kommer domarringsvägen att förlängas .
+
+  Validation Input: festivalen hyar krsitna förtecgke n.
+  Validation Output: festivalen har kristna förtecken .
+
+  Validation Input: jagh ar fåt tbetala extra .
+  Validation Output: jag har fått betala extra .
+
+  Validation Input: rockwen r bredare än någonsin .
+  Validation Output: rocken är bredare än någonsin .
+
+  Validation Input: dessutom är det ju en utmaning gatt få vara med. 
+  Validation Output: dessutom är det ju en utmaning att få vara med .
+
+  Validation Input: det känns alltid lite tungt att tipsa om drömstränpder a.
+  Validation Output: det känns alltid lite tungt att tipsa om drömstränder .
+
+  Validation Input: inte mer än s å.
+  Validation Output: inte mer än så .
+
+  Validation Input: hur ska man då öfrstå brådskan ?
+  Validation Output: hur ska man då förstå brådskan ?
+
+  Validation Input: ha nråderm dig atpt köpa guld .
+  Validation Output: han råder dig att köpa guld .
+
+  Validation Input: han äru resonerande , tydlig occh bygger gärna undger sina argument med siffror .
+  Validation Output: han är resonerande , tydlig och bygger gärna under sina argument med siffror .
+
+  Validation Input: - här finns ingen politisk kris sofm de vill fåd et atts eu t som .
+  Validation Output: - här finns ingen politisk kris som de vill få det att se ut som .
+
+  Validation Input: fortusätt mde tunna såkivor mozzarella , skivad tomat och oliver .
+  Validation Output: fortsätt med tunna skivor mozzarella , skivad tomat och oliver .
+
+  Validation Input: tyska , franska oczh brittiska banker borde tvingas skriva ned sina fordringar .
+  Validation Output: tyska , franska och brittiska banker borde tvingas skriva ned sina fordringar .
+
+  Validation Input: oche  solnedgåwng dtill .
+  Validation Output: och en solnedgång till .
+
+  Validation Input: ingteär så övertygande spom goda föredömen .
+  Validation Output: inget är så övertygande som goda föredömen .
+
+  Validation Input: sedan dgäller det att förhandla.
+  Validation Output: sedan gäller det att förhandla .
+
+  Validation Input: först , i mtiten eller sist ?
+  Validation Output: först , i mitten eller sist ?
+
+  Validation Input: hplats 1,19-1,53 .
+  Validation Output: plats 1,19-1,53 .
+
+  Validation Input: hon är forftarande sjukskriven .
+  Validation Output: hon är fortfarande sjukskriven .
+
+  Validation Input: - det kan vara svårt med gränsdragningaran.
+  Validation Output: - det kan vara svårt med gränsdragningarna .
+
+  Validation Input: dessa ska gransaks närmare. 
+  Validation Output: dessa ska granskas närmare .
+
+  Validation Input: dceztä r fö rtidigt änf ör tt tala om resultat .
+  Validation Output: det är för tidigt än för att tala om resultat .
+
+  Validation Input: -det får man acceptera. 
+  Validation Output: - det får man acceptera .
+
+  Validation Input: detk aön ge jobb i sverige .
+  Validation Output: det kan ge jobb i sverige .
+
+  Validation Input: pubylik : 1 033 .
+  Validation Output: publik : 1 033 .
+
+  Validation Input: det wka jakg ju inte säga .
+  Validation Output: det kan jag ju inte säga .
+
+  Validation Input: samtiditg växer motståndet mont bidragsslakten .
+  Validation Output: samtidigt växer motståndet mot bidragsslakten .
+
+  Validation Input: det andra gäller utafnörskapet .
+  Validation Output: det andra gäller utanförskapet .
+
+  Validation Input: jagl ska hjälpa dig .
+  Validation Output: jag ska hjälpa dig .
+
+  Validation Input: inte för mycket men hleer ibnte scenprat .
+  Validation Output: inte för mycket men heller inte scenprat .
+
+  Validation Input: v3:  190 510 kr .
+  Validation Output: v3 : 190 510 kr .
+
+  Validation Input: det må vara hänt. 
+  Validation Output: det må vara hänt .
+
+  Validation Input: s- både ochu .
+  Validation Output: - både och .
+
+  Validation Input: trevlpig helg !
+  Validation Output: trevlig helg !
+
+  Validation Input: masala kithcen indiskt. 
+  Validation Output: masala kitchen indiskt .
+
+  Validation Input: dagensv åldsfacit i anda delar a vlandet blev mnist 23d öad irakier .
+  Validation Output: dagens våldsfacit i andra delar av landet blev minst 23 döda irakier .
+
+  Validation Input: efter semestern blev det nänu sämre .
+  Validation Output: efter semestern blev det ännu sämre .
+
+  Validation Input: jgaä beklagaratt inte informationen nått alla tidigare .
+  Validation Output: jag beklagar att inte informationen nått alla tidigare .
+
+  Validation Input: vde skal fstas på väggarn a.
+  Validation Output: de skall fästas på väggarna .
+
+  Validation Input: det är aölla sorter .
+  Validation Output: det är alla sorter .
+
+  Validation Input: viking telecom har ybtt verksamhet under året .
+  Validation Output: viking telecom har bytt verksamhet under året .
+
+  Validation Input: lå tdejm svalna .
+  Validation Output: låt dem svalna .
+
+  Validation Input: strukewn nr 8 .
+  Validation Output: struken nr 8 .
+
+  Validation Input: halland : ppapan hade sex med sina två döttrar under tio å r.
+  Validation Output: halland : pappan hade sex med sina två döttrar under tio år .
+
+  Validation Input: har en grudnpottq våsrggårda har redan en grundpott 3,4 miljoner kronor .
+  Validation Output: har en grundpott vårgårda har redan en grundpott 3,4 miljoner kronor .
+
+  Validation Input: men spelkänslan äör det vekrligen inget fel åp .
+  Validation Output: men spelkänslan är det verkligen inget fel på .
+
+  Validation Input: utv,  sverige : 5x2 .
+  Validation Output: utv , sverige : 5x2 .
+
+  Validation Input: esn kmo skilsmässan och ho nflyttade till lägehnetf .
+  Validation Output: sen kom skilsmässan och hon flyttade till lägenhet .
+
+  Validation Input: jo , aknske litfe mer , säger hano chs krattar .
+  Validation Output: jo , kanske lite mer , säger han och skrattar .
+
+  Validation Input: mannen sägers igr infte minnasc dåden .
+  Validation Output: mannen säger sig inte minnas dåden .
+
+  Validation Input: totalt är cdet c15 reportrarp soms krivr för graffiti .
+  Validation Output: totalt är det 15 reportrar som skriver för graffiti .
+
+  Validation Input: det kan bli aktuellt att testa hnuden mentalt .
+  Validation Output: det kan bli aktuellt att testa hunden mentalt .
+
+  Validation Input: i ntegrations- oh
+  Validation Output: i ntegrations- och
+
+  Validation Input: mne det är svårt .
+  Validation Output: men det är svårt .
+
+  Validation Input: gråtande bosättare och soldater stod mto varandra .
+  Validation Output: gråtande bosättare och soldater stod mot varandra .
+
+  Validation Input: gör konsthallen ill barnens konstmuseum
+  Validation Output: gör konsthallen till barnens konstmuseum
+
+  Validation Input: plats : ,1381-,73-1,84 .
+  Validation Output: plats : 1,38-1,73-1,84 .
+
+  Validation Input: ilvetblir ju mycekt enklare då !
+  Validation Output: livet blir ju mycket enklare då !
+
+  Validation Input: ör 4 personer
+  Validation Output: för 4 personer
+
+  Validation Input: har sedna dess oroligt väntat på sva r.
+  Validation Output: har sedan dess oroligt väntat på svar .
+
+  Validation Input: pajas oc  gud  .
+  Validation Output: pajas och  gud  .
+
+  Validation Input: storsatsnin g.
+  Validation Output: storsatsning .
+
+  Validation Input: en av arragnörernab akom kosterfestivale nc.
+  Validation Output: en av arrangörerna bakom kosterfestivalen .
+
+  Validation Input: - jag litade int etillrckligt på mejv själ v, tycker matild a.
+  Validation Output: - jag litade inte tillräckligt på mej själv , tycker matilda .
+
+  Validation Input: det ä rav vitk också för flygbranschen so msådaön .
+  Validation Output: det är av vikt också för flygbranschen som sådan .
+
+  Validation Input: therese var den enda tjejen i tävilntgen .
+  Validation Output: therese var den enda tjejen i tävlingen .
+
+  Validation Input: oms:  52 950 kr .
+  Validation Output: oms : 52 950 kr .
+
+  Validation Input: så nu har bägge parteör svårtatt backa .
+  Validation Output: så nu har bägge parter svårt att backa .
+
+  Validation Input: hemlgi rumsavlyssning är et förslag .
+  Validation Output: hemlig rumsavlyssning är ett förslag .
+
+  Validation Input: förslagen kostqar femz imjlarder prislaappen pför allt detta andra då ?
+  Validation Output: förslagen kostar fem miljarder prislappen för allt detta andra då ?
+
+  Validation Input: - det här har öppnat upp så många nay tankegångra för mig, säger karin alvtegen .
+  Validation Output: - det här har öppnat upp så många nya tankegångar för mig , säger karin alvtegen .
+
+  Validation Input: sammwa metod .
+  Validation Output: samma metod .
+
+  Validation Input: vernissage kl 11t-14 .
+  Validation Output: vernissage kl 11-14 .
+
+  Validation Input: benen iett frhamgångsrikt handbollslag är inga konstigheter .
+  Validation Output: benen i ett framgångsrikt handbollslag är inga konstigheter .
+
+  Validation Input: varslet lades till årsskfitet .
+  Validation Output: varslet lades till årsskiftet .
+
+  Validation Input: publik : ä313 .
+  Validation Output: publik : 313 .
+
+  Validation Input: dt finnsl ju allmänna grillplatser u, använd dem .
+  Validation Output: det finns ju allmänna grillplatser , använd dem .
+
+  Validation Input: det hade alltså nite ekström .
+  Validation Output: det hade alltså inte ekström .
+
+  Validation Input: hons aknas fortfarande 
+  Validation Output: hon saknas fortfarande .
+
+  Validation Input: - det ä rsvårxt att säga .
+  Validation Output: - det är svårt att säga .
+
+  Validation Input: edn rcegionala strukturen rhar spelat ut sin roll so sjävlständig beslutsnvå .
+  Validation Output: den regionala strukturen har spelat ut sin roll som självständig beslutsnivå .
+
+  Validation Input: edt kan bero på eni konflikt inombords , det kan bero på samhället omkrisng .
+  Validation Output: det kan bero på en konflikt inombords , det kan bero på samhället omkring .
+
+  Validation Input: y-ä åkningen var okej .
+  Validation Output: - åkningen var okej .
+
+  Validation Input: hittils .
+  Validation Output: hittills .
+
+  Validation Input: bkilj tel 0346-88 61 01 .
+  Validation Output: bilj tel 0346-88 61 01 .
+
+  Validation Input: det är alltså bra at twbromsen ifnns .
+  Validation Output: det är alltså bra att bromsen finns .
+
+  Validation Input: då hängerj j gitnxe med på allt .
+  Validation Output: då hänger jag inte med på allt .
+
+  Validation Input: det är välidg tsvårt .
+  Validation Output: det är väldigt svårt .
+
+  Validation Input: mde fartygen försvinner xklustret kring jsöfarten .
+  Validation Output: med fartygen försvinner klustret kring sjöfarten .
+
+  Validation Input: ahn ber nu ill högre makter om fortsattc gott väder .
+  Validation Output: han ber nu till högre makter om fortsatt gott väder .
+
+  Validation Input: de flesta besökarn aär göteborgare .
+  Validation Output: de flesta besökarna är göteborgare .
+
+  Validation Input: - jo , men det är intme meninegn att vi ska gömma undan etnrén .
+  Validation Output: - jo , men det är inte meningen att vi ska gömma undan entrén .
+
+  Validation Input: deöt finns alltid en sista ömjlghet .
+  Validation Output: det finns alltid en sista möjlighet .
+
+  Validation Input: vi måst ejbba på det owch bli bättre .
+  Validation Output: vi måste jobba på det och bli bättre .
+
+  Validation Input: för träde tbtrukar inte cgöra det .
+  Validation Output: för trädet brukar inte göra det .
+
+  Validation Input: ewn ren fröjd .
+  Validation Output: en ren fröjd .
+
+  Validation Input: strukna : 2,9 och 14 
+  Validation Output: strukna : 2,9 och 14 .
+
+  Validation Input: struken nr  6.
+  Validation Output: struken nr 6 .
+
+  Validation Input: ivnteså många äldre .
+  Validation Output: inte så många äldre .
+
+  Validation Input: min drivkraft är mental 
+  Validation Output: min drivkraft är mental .
+
+  Validation Input: nu söker imn gamla (endast 3 årä ldre ! )
+  Validation Output: nu söker min gamla ( endast 3 år äldre ! )
+
+  Validation Input: det hde bhan inte när han kom .
+  Validation Output: det hade han inte när han kom .
+
+  Validation Input: de rbukarf blända sin publiäk .
+  Validation Output: de brukar blända sin publik .
+
+  Validation Input: utv , lkesqand : 5x2 .
+  Validation Output: utv , leksand : 5x2 .
+
+  Validation Input: en rasolycka ledde till at en av de anställdafifck rasmassor över sig .
+  Validation Output: en rasolycka ledde till att en av de anställda fick rasmassor över sig .
+
+  Validation Input: följer isna spår
+  Validation Output: följer sina spår
+
+  Validation Input: då kom den andrav ågen och krossade väggen bakom mig så att jga kom ut e.
+  Validation Output: då kom den andra vågen och krossade väggen bakom mig så att jag kom ut .
+
+  Validation Input: jag vet inte varåfrö jag ögr så .
+  Validation Output: jag vet inte varför jag gör så .
+
+  Validation Input: varm tocyh trivsamt .
+  Validation Output: varmt och trivsamt .
+
+  Validation Input: köttet ä rgiftigt och måste tillreådas av sdpecialutbildade köksmästare .
+  Validation Output: köttet är giftigt och måste tillredas av specialutbildade köksmästare .
+
+  Validation Input: i domzstol .
+  Validation Output: i domstol .
+
+  Validation Input: vad tycer du ?
+  Validation Output: vad tycker du ?
+
+  Validation Input: upblik : 221. 
+  Validation Output: publik : 221 .
+
+  Validation Input: räddningstjänsten är påd plats chö arbetar öfr fullt med släckning .
+  Validation Output: räddningstjänsten är på plats och arbetar för fullt med släckning .
+
+  Validation Input: - nej nxej , prootesterade uhan .
+  Validation Output: - nej nej , protesterade han .
+
+  Validation Input: och man vänjer sig aldrig , säger ole hultman. 
+  Validation Output: och man vänjer sig aldrig , säger ole hultman .
+
+  Validation Input: den ksotar 15 kroonr .
+  Validation Output: den kostar 15 kronor .
+
+  Validation Input: pegnar  ,statyetter och ära .
+  Validation Output: pengar , statyetter och ära .
+
+  Validation Input: musik måste vara ärli g.
+  Validation Output: musik måste vara ärlig .
+
+  Validation Input: skåwdespelare .
+  Validation Output: skådespelare .
+
+  Validation Input: zprolific bbetyder fxruktsam. 
+  Validation Output: prolific betyder fruktsam .
+
+  Validation Input: gtot, och inte minst lättlagat .
+  Validation Output: gott , och inte minst lättlagat .
+
+  Validation Input: likvrdigtä för alla elever .
+  Validation Output: likvärdigt för alla elever .
+
+  Validation Input: men boknnige nvar inte klar .
+  Validation Output: men bokningen var inte klar .
+
+  Validation Input: t o m w30 / 12 .
+  Validation Output: t o m 30 / 12 .
+
+  Validation Input: - det ä min favorit , säger hon .
+  Validation Output: - det är min favorit , säger hon .
+
+  Validation Input:  to m 21 / 2 .
+  Validation Output: t o m 21 / 2 .
+
+  Validation Input: ho ädr mes tlovande i klassen .
+  Validation Output: hon är mest lovande i klassen .
+
+  Validation Input: väldigt mjycket nmer .
+  Validation Output: väldigt mycket mer .
+
+  Validation Input: tanpka film ochtv .
+  Validation Output: tanka film och tv .
+
+  Validation Input: och vem sk adå flytta åpm sig ?
+  Validation Output: och vem ska då flytta på sig ?
+
+  Validation Input: v5 : 900 218i kr .
+  Validation Output: v5 : 900 218 kr .
+
+  Validation Input: i södre uppmanas lfolk att varoa fortsatt vaksamma .
+  Validation Output: i söder uppmanas folk att vara fortsatt vaksamma .
+
+  Validation Input: ibladn kommer de snubblande nära .
+  Validation Output: ibland kommer de snubblande nära .
+
+  Validation Input: - kan detbli bättre , sa fanskapet .
+  Validation Output: - kan det bli bättre , sa fanskapet .
+
+  Validation Input: men då tarj ag medicin som hjäolper .
+  Validation Output: men då tar jag medicin som hjälper .
+
+  Validation Input: motor : solen skinre i karltsad w.
+  Validation Output: motor : solen skiner i karlstad .
+
+  Validation Input: jag såg skogen komma mo tmgiä b.
+  Validation Output: jag såg skogen komma mot mig .
+
+  Validation Input: - många tycker atätq vaktmäsatre verkar avraettslajppt ijobb .
+  Validation Output: - många tycker att vaktmästare verkar vara ett slappt jobb .
+
+  Validation Input: för att bli accepterad , ochkanske till ohcå med älskad .
+  Validation Output: för att bli accepterad , och kanske till och med älskad .
+
+  Validation Input: plats : 2,31-7,g02-2,21 .
+  Validation Output: plats : 2,31-7,02-2,21 .
+
+  Validation Input: chefsåklagrae lena medelius beskriver mordets om et tav de våldsammastehon öhrt talas om .
+  Validation Output: chefsåklagare lena medelius beskriver mordet som ett av de våldsammaste hon hört talas om .
+
+  Validation Input: alla ä inne  ilogen .
+  Validation Output: alla är inne i logen .
+
+  Validation Input: allt rär guld som glimmar , äsom mank säger .
+  Validation Output: allt är guld som glimmar , som man säger .
+
+  Validation Input: äntligen. 
+  Validation Output: äntligen .
+
+  Validation Input: tävlingakrna är viktiga .
+  Validation Output: tävlingarna är viktiga .
+
+  Validation Input: sagoföreställnin om vänskap .
+  Validation Output: sagoföreställning om vänskap .
+
+  Validation Input: på så sätt kom jagi  kontakt medf öretagte .
+  Validation Output: på så sätt kom jag i kontakt med företaget .
+
+  Validation Input: od s: 83,46 .
+  Validation Output: odds : 83,46 .
+
+  Validation Input: menr österna tystnar inte .
+  Validation Output: men rösterna tystnar inte .
+
+  Validation Input: 23.00-04.00, 100 kr , 20 år .
+  Validation Output: 23.00-04.00 , 100 kr , 20 år .
+
+  Validation Input: v3 : 134 940k r .
+  Validation Output: v3 : 134 940 kr .
+
+  Validation Input: - jag har hålilt i gångm ed annanj träninrg ,s äger carl ferm .
+  Validation Output: - jag har hållit i gång med annan träning , säger carl ferm .
+
+  Validation Input: strzuken nr 5 .
+  Validation Output: struken nr 5 .
+
+  Validation Input: - ibland bli rman lurad in i saker och tnig .
+  Validation Output: - ibland blir man lurad in i saker och ting .
+
+  Validation Input: visningk l 19 .
+  Validation Output: visning kl 19 .
+
+  Validation Input: den här gången är jag här på egen han dför attmåla stugan .
+  Validation Output: den här gången är jag här på egen hand för att måla stugan .
+
+  Validation Input: - jag veti nte a.
+  Validation Output: - jag vet inte .
+
+  Validation Input: nu , fyra år senare hfar vi flyttat till göteborg , vlket avr bådas mlå 
+  Validation Output: nu , fyra år senare har vi flyttat till göteborg , vilket var bådas mål .
+
+  Validation Input: lån tillåts baraf ör iänvesteringar .
+  Validation Output: lån tillåts bara för investeringar .
+
+  Validation Input: och ahn ser också en roll fr hoonm .
+  Validation Output: och han ser också en roll för honom .
+
+  Validation Input: ööppet vard kl1 2-19 .
+  Validation Output: öppet vard kl 12-19 .
+
+  Validation Input: det är förvaltningen för kukltur- ch turism som står bakom arrangemanget .
+  Validation Output: det är förvaltningen för kultur- och turism som står bakom arrangemanget .
+
+  Validation Input: - det skulle vara ne katastrof om det hädne något .
+  Validation Output: - det skulle vara en katastrof om det hände något .
+
+  Validation Input: strukeno nr 6 .
+  Validation Output: struken nr 6 .
+
+  Validation Input: någqon som visar att gman bryr sig , säge rkatarinabäckelin .
+  Validation Output: någon som visar att man bryr sig , säger katarina bäckelin .
+
+  Validation Input: de är på åmig jämt när vi inzte ä rpå g .
+  Validation Output: de är på mig jämt när vi inte är på g .
+
+  Validation Input: nu får v se hu rdet funakr .
+  Validation Output: nu får vi se hur det funkar .
+
+  Validation Input: det ka nog gå vägen för qviding .
+  Validation Output: det kan nog gå vägen för qviding .
+
+  Validation Input: de ifngår i dn internationella isaf-styrakn , osm står under ledning aiv nato-befäl .
+  Validation Output: de ingår i den internationella isaf-styrkan , som står under ledning av nato-befäl .
+
+  Validation Input: dn drunknade
+  Validation Output: den drunknade
+
+  Validation Input: renojveringen to gett år .
+  Validation Output: renoveringen tog ett år .
+
+  Validation Input:  pressen kommer frå familjen 
+  Validation Output:  pressen kommer från familjen 
+
+  Validation Input: x- jag käner mig lugn och harmonisk .
+  Validation Output: - jag känner mig lugn och harmonisk .
+
+  Validation Input: jga hlåer helqt emd o det .
+  Validation Output: jag håller helt med om det .
+
+  Validation Input: me ntill dess föjler gp nuvarande lag .
+  Validation Output: men till dess följer gp nuvarande lag .
+
+  Validation Input: publik  1 586 .
+  Validation Output: publik : 1 586 .
+
+  Validation Input: det var hingne tanke .
+  Validation Output: det var ingen tanke .
+
+  Validation Input: han var en av två svenskåar i reining-vm dne här wdagen .
+  Validation Output: han var en av två svenskar i reining-vm den här dagen .
+
+  Validation Input: kansek borde vi int vara förvånaqde 
+  Validation Output: kanske borde vi inte vara förvånade .
+
+  Validation Input: jag saknar p- alltmer akut - variation .
+  Validation Output: jag saknar - alltmer akut - variation .
+
+  Validation Input: - dået hä rkvartalet ahr vi öppnat 16 nya butiker .
+  Validation Output: - det här kvartalet har vi öppnat 16 nya butiker .
+
+  Validation Input: i augusti 2004 hae adneeln ökat till 20 procent .
+  Validation Output: i augusti 2004 hade andelen ökat till 20 procent .
+
+  Validation Input: tyvärr var det få som dök upp. 
+  Validation Output: tyvärr var det få som dök upp .
+
+  Validation Input: ajg är iåne färdigl md det gamla !
+  Validation Output: jag är inte färdig med det gamla !
+
+  Validation Input: västerbo daylight fortstäter att vinna i frankrike .
+  Validation Output: västerbo daylight fortsätter att vinna i frankrike .
+
+  Validation Input: menz deut var bara att köra .
+  Validation Output: men det var bara att köra .
+
+  Validation Input: sedan vkar jag fast .
+  Validation Output: sedan var jag fast .
+
+  Validation Input: men göran bonander ( c )i  tekniska nämndn är arg .
+  Validation Output: men göran bonander ( c ) i tekniska nämnden är arg .
+
+  Validation Input: här gäller det tat vara vaksam .
+  Validation Output: här gäller det att vara vaksam .
+
+  Validation Input: oms :5  747 438 kr .
+  Validation Output: oms : 5 747 438 kr .
+
+  Validation Input: glda pristagare q.
+  Validation Output: glad pristagare .
+
+  Validation Input: - hon ärö bara fyra år , men hon rä smart .
+  Validation Output: - hon är bara fyra år , men hon är smart .
+
+  Validation Input: det ä pkoesi till näckrosen osckså. 
+  Validation Output: det är poesi till näckrosen också .
+
+  Validation Input: om hgan frgyser ?
+  Validation Output: om han fryser ?
+
+  Validation Input: utv , finland:  1x2 .
+  Validation Output: utv , finland : 1x2 .
+
+  Validation Input: t o m 14 /1-06 .
+  Validation Output: t o m 14 / 1-06 .
+
+  Validation Input: stolarna är rejxält wtilltagna , breda med bra längd p åsittdynan .
+  Validation Output: stolarna är rejält tilltagna , breda med bra längd på sittdynan .
+
+  Validation Input: odyds : 159,89 .
+  Validation Output: odds : 159,89 .
+
+  Validation Input: stark hotibld mot sinn féin-ledaren
+  Validation Output: stark hotbild mot sinn féin-ledaren
+
+  Validation Input: som om han inte skulle ha etbt eget va lx.
+  Validation Output: som om han inte skulle ha ett eget val .
+
+  Validation Input: vi har spelat sedan 1998k och jobbar fortfarxande lika hår t.
+  Validation Output: vi har spelat sedan 1998 och jobbar fortfarande lika hårt .
+
+  Validation Input: i denp offentlig asektorn ser det mindrle ljust ut .
+  Validation Output: i den offentliga sektorn ser det mindre ljust ut .
+
+  Validation Input: me nja gvet ine oum det är så ?
+  Validation Output: men jag vet inte om det är så ?
+
+  Validation Input: - men så är det linte i dagj .
+  Validation Output: - men så är det inte i dag .
+
+  Validation Input: moduler en lösinng
+  Validation Output: moduler en lösning
+
+  Validation Input: ska jag skänka pefnbgar ?
+  Validation Output: ska jag skänka pengar ?
+
+  Validation Input: öatt äta till :
+  Validation Output: att äta till :
+
+  Validation Input: bara tillräcqkligt för att slippa jumbopltasen .
+  Validation Output: bara tillräckligt för att slippa jumboplatsen .
+
+  Validation Input: nekar htill allt .
+  Validation Output: nekar till allt .
+
+  Validation Input: sohlberg tog grepp på 13:e speciaeln vid vaurgåäsen 
+  Validation Output: sohlberg tog grepp på 13:e specialen vid vargåsen .
+
+  Validation Input: odds q:h 184,91 .
+  Validation Output: odds : 184,91 .
+
+  Validation Input: kvilkenr skulle konsekvensen bli ?
+  Validation Output: vilken skulle konsekvensen bli ?
+
+  Validation Input: kvarngården , klp 19 .
+  Validation Output: kvarngården , kl 19 .
+
+  Validation Input: - ja , det är ju fhantastisbkt .
+  Validation Output: - ja , det är ju fantastiskt .
+
+  Validation Input: - det äsr täaget rakt ur luften .
+  Validation Output: - det är taget rakt ur luften .
+
+  Validation Input: fakta :f örslagen
+  Validation Output: fakta : förslagen
+
+  Validation Input: 188 av landets 290 okmmnuerh ar ssvaat på enkäte n.
+  Validation Output: 188 av landets 290 kommuner har svarat på enkäten .
+
+  Validation Input: dte får de finna si gi somk ändisar .
+  Validation Output: det får de finna sig i som kändisar .
+
+  Validation Input: 22-03 , 100x kr ,x 20 år .
+  Validation Output: 22-03 , 100 kr , 20 år .
+
+  Validation Input: men detta är nite skandalens slutpunkt. 
+  Validation Output: men detta är inte skandalens slutpunkt .
+
+  Validation Input: polisen förhör de inblxandade .
+  Validation Output: polisen förhör de inblandade .
+
+  Validation Input: ingemar johansson oljemåleir .
+  Validation Output: ingemar johansson oljemåleri .
+
+  Validation Input: lerverk ,v  hamng 24-26 .
+  Validation Output: lerverk , v hamng 24-26 .
+
+  Validation Input: mi nmammavar borta mycket , på sjuvkhus .
+  Validation Output: min mamma var borta mycket , på sjukhus .
+
+  Validation Input: de upfpylldes inet den hbärö gången .
+  Validation Output: de uppfylldes inte den här gången .
+
+  Validation Input: idag strå han qsom vanligt i " 10 för tio"  .
+  Validation Output: idag står han som vanligt i " 10 för tio " .
+
+  Validation Input: men arbetsmiljön påverkar vardagen och är vikitgast .
+  Validation Output: men arbetsmiljön påverkar vardagen och är viktigast .
+
+  Validation Input: nif örstår .
+  Validation Output: ni förstår .
+
+  Validation Input: fö vnänerna
+  Validation Output: för vännerna
+
+  Validation Input: yräknat i svenska pengar s åcmotsvaarar budet 97 mijljaredr kronor .
+  Validation Output: räknat i svenska pengar så motsvarar budet 97 miljarder kronor .
+
+  Validation Input: - många har hört av sig. 
+  Validation Output: - många har hört av sig .
+
+  Validation Input: publik :832. 
+  Validation Output: publik : 832 .
+
+  Validation Input: - jag tycker nog tat vi har rutiner .
+  Validation Output: - jag tycker nog att vi har rutiner .
+
+  Validation Input: malmö hamnazde ännu längre ned  -påa plats 247av totalt 290 .
+  Validation Output: malmö hamnade ännu längre ned - på plats 247 av totalt 290 .
+
+  Validation Input: billstrlömska , kl 19 .
+  Validation Output: billströmska , kl 19 .
+
+  Validation Input: skär citroneni  skivor .
+  Validation Output: skär citronen i skivor .
+
+  Validation Input: kan kmma med spel
+  Validation Output: kan komma med spel
+
+  Validation Input: fakta  :fredsplaen
+  Validation Output: fakta : fredsplanen
+
+  Validation Input: vgart går pengarna ?
+  Validation Output: vart går pengarna ?
+
+  Validation Input: göteborg : ifngaö vuvuzelor .
+  Validation Output: göteborg : inga vuvuzelor .
+
+  Validation Input: o- tveksamt .
+  Validation Output: - tveksamt .
+
+  Validation Input: t o m 20 / 2. 
+  Validation Output: t o m 20 / 2 .
+
+  Validation Input: nåon ersätafre har ännu inte rekryterats .
+  Validation Output: någon ersättare har ännu inte rekryterats .
+
+  Validation Input: stryk dpå hemmagolvw mot iqfk ystadä .
+  Validation Output: stryk på hemmagolv mot ifk ystad .
+
+  Validation Input: mn de har aldrig bryt tsihg om vad vi säger. 
+  Validation Output: men de har aldrig brytt sig om vad vi säger .
+
+  Validation Input: - tänk mo det är ha n?
+  Validation Output: - tänk om det är han ?
+
+  Validation Input: uklturföreningen tåget , brämhultsv 28 , kl 14 .
+  Validation Output: kulturföreningen tåget , brämhultsv 28 , kl 14 .
+
+  Validation Input: en gav barnen korv imed musslor .
+  Validation Output: en gav barnen korv med musslor .
+
+  Validation Input: strukna nr 8 och 12 
+  Validation Output: strukna nr 8 och 12 .
+
+  Validation Input: vilkaq signaler ger det ?
+  Validation Output: vilka signaler ger det ?
+
+  Validation Input: det ksule gynna stenas taznkflotta .
+  Validation Output: det skulle gynna stenas tankflotta .
+
+  Validation Input: till hösten börwjar behandlingen .
+  Validation Output: till hösten börjar behandlingen .
+
+  Validation Input: påf ritiden spelar han nyckelhrapa .
+  Validation Output: på fritiden spelar han nyckelharpa .
+
+  Validation Input: i stlälet yr deno mkring i luften .
+  Validation Output: i stället yr den omkring i luften .
+
+  Validation Input: satdsmsueet, kl 12 .
+  Validation Output: stadsmuseet , kl 12 .
+
+  Validation Input: det vetm an inte .
+  Validation Output: det vet man inte .
+
+  Validation Input: den gamla anrika planen kvarnbyvallend planeäras försivnnao vmä några åår .
+  Validation Output: den gamla anrika planen kvarnbyvallen planeras försvinna om några år .
+
+  Validation Input: alice i underlnadet ( äventyr ) tet visuellt fyrverkeri (mdw ) .
+  Validation Output: alice i underlandet ( äventyr ) ett visuellt fyrverkeri ( mdw ) .
+
+  Validation Input: nästa match väntar bottenlaget mjällyb boärta .
+  Validation Output: nästa match väntar bottenlaget mjällby borta .
+
+  Validation Input: och hur vänder mna bladet tillbaka ?
+  Validation Output: och hur vänder man bladet tillbaka ?
+
+  Validation Input: sympatin ligger alltid på däe svagaste sida .
+  Validation Output: sympatin ligger alltid på de svagaste sida .
+
+  Validation Input: debuten skedde redanför tåolv år psedan .
+  Validation Output: debuten skedde redan för tolv år sedan .
+
+  Validation Input:  joivsst .
+  Validation Output: - jovisst .
+
+  Validation Input: odds : 8p,16 .
+  Validation Output: odds : 8,16 .
+
+  Validation Input: - unedr xmina sist a30 år i livet måste jg se itll attm åw rba .
+  Validation Output: - under mina sista 30 år i livet måste jag se till att må bra .
+
+  Validation Input: tyrcket på cstödgruppen hra inte varit specåiellt hårt .
+  Validation Output: trycket på stödgruppen har inte varit speciellt hårt .
+
+  Validation Input: ch det var hemmalaget värda :
+  Validation Output: och det var hemmalaget värda :
+
+  Validation Input: z- numer stannar publiken kvar ,hela matchen .
+  Validation Output: - numer stannar publiken kvar , hela matchen .
+
+  Validation Input: odds 2,09.
+  Validation Output: odds 2,09 .
+
+  Validation Input: - det var annoyrlunda .
+  Validation Output: - det var annorlunda .
+
+  Validation Input: men nu äblihr detändring .
+  Validation Output: men nu blir det ändring .
+
+  Validation Input: och hur låter detd å ?
+  Validation Output: och hur låter det då ?
+
+  Validation Input: och fortfarande är det trögt medc bostadsbyggandet .
+  Validation Output: och fortfarande är det trögt med bostadsbyggandet .
+
+  Validation Input: hanpratar i fsömnen .
+  Validation Output: han pratar i sömnen .
+
+  Validation Input: - jga är lite rädd förl att åka tlilbaka 
+  Validation Output: - jag är lite rädd för att åka tillbaka .
+
+  Validation Input: 19.30ä farmen .
+  Validation Output: 19.30 farmen .
+
+  Validation Input: - att få med öfräldranra iö arbetet mot rasism ärj ättevitkigt .
+  Validation Output: - att få med föräldrarna i arbetet mot rasism är jätteviktigt .
+
+  Validation Input: - inramningen betyder också mycket 
+  Validation Output: - inramningen betyder också mycket .
+
+  Validation Input: drivet dansilr utlovas .
+  Validation Output: drivet danslir utlovas .
+
+  Validation Input: öheal tre av fyra i kvaletg år öupp .
+  Validation Output: hela tre av fyra i kvalet går upp .
+
+  Validation Input: är en läkare verklien så msycke tmer värd än en skötesrka smo gör grovjobbet ?
+  Validation Output: är en läkare verkligen så mycket mer värd än en sköterska som gör grovjobbet ?
+
