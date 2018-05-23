@@ -1,8 +1,11 @@
 # Swedish NLP LSTM Result
 
-This repo contains all the log files, produced during training, validation and testing of our LSTM network for grammar correction and spellchecking which is appart of our Bachelor Thesis.
+This repo contains all the log files produced during training, validation and testing of our LSTM network for grammar correction and spellchecking, part of our Bachelor Thesis
+at Linneaus Univeristy.
 
-If anyone would like to try our trained model. Then you will find the best save checkpoint in the _best checkpoint_ folder. Which is the result of the 180523 drop45 training.
+It also contains the full results from our trained models, found in `Raw results.xslx`.
+
+If anyone would like to try our trained model, you will find the best saved checkpoint in the _best checkpoint_ folder. This is the result of the 180523 drop45 training.
 
 It has the following accuracy:
 
